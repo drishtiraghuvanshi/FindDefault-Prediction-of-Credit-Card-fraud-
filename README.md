@@ -7,11 +7,17 @@ The accuracy of the model on the test data set should be > 75% (Subjective in na
 
 # Steps
 1.Importing the Dependencies
+
 2.Loading the data
+
 3.Reading and understanding the data
+
 4.Handling missing values
+
 5.Data Preprocessing
+
 6.Split the data into Training data & Testing Data
+
 7.Model Evaluation
 
 # Project Pipeline
