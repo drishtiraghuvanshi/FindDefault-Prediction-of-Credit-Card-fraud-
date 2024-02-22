@@ -30,12 +30,12 @@ Evaluate the performance of the models using appropriate evaluation metrics. Not
 ### Business Impact: 
 After the model has been built and evaluated with the appropriate metrics, you need to demonstrate its potential benefits by performing a cost-benefit analysis which can then be presented to the relevant business stakeholders.
 
-### Conclusion
+# Conclusion
 FindDefault is a powerful tool that uses advanced algorithms and machine learning techniques to analyze patterns and trends in credit card transactions. By examining various factors such as transaction amount, frequency, location, and time of day, FindDefault can accurately predict whether a transaction is likely to be fraudulent. This allows financial institutions to take immediate action to prevent unauthorized charges and protect their customers from potential financial losses.
 
 Furthermore, FindDefault is constantly updated with new data and information, allowing it to adapt to changing fraud patterns and stay ahead of cybercriminals. By leveraging the power of technology and data analytics, FindDefault provides a proactive approach to fraud detection, helping financial institutions stay one step ahead of fraudsters.
 
 In conclusion, FindDefault is a crucial tool in the fight against credit card fraud. By leveraging cutting-edge technology and predictive modeling, this tool helps financial institutions detect and prevent fraudulent activities, ultimately safeguarding the financial well-being of their customers. With the ever-evolving landscape of cybercrime, tools like FindDefault are essential in maintaining the security and integrity of the financial sector.
 
-### Future Work
+# Future Work
 After the model has been deployed, the bank plans to provide a second layer of authentication for each of the transactions that the model predicts as fraudulent. If a payment gets flagged by the model, an SMS will be sent to the customer requesting them to call on a toll-free number to confirm the authenticity of the transaction.
